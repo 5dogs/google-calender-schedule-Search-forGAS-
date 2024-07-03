@@ -6,4 +6,4 @@ https://docs.google.com/spreadsheets/d/1kzAjAxwoPD1FnMU2SaMljbZoqPl1pBZDcdRAL41j
 ※現状、アクセス権のあるアカウントでのみアクセスできます。<br>
 要望があれば公開用シートを作成しますのでお申しつけください。
 
-ちょっとフォルダがごちゃごちゃしてますな
+ps.ちょっとフォルダがごちゃごちゃしてますな
